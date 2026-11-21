@@ -221,3 +221,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data (not redistributed – see README for sources)
+Data_QLD_Toowoomba*.csv
+QLD_spot_price_2022/
+QLD_spot_price_2023/
+Predispatch_2023/
+*.zip
+outputs/*.parquet
+outputs/*_5min.csv
